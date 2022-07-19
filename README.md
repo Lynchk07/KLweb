@@ -1,15 +1,15 @@
 # KLweb
-Advanced CSS 
+Advanced CSS - Coding Challenge 
 
-Repository contains a quality readme with description, screenshot, link to deployed application.
 # Description
 This is code for my personal portfolio. 
 
 # Portfolio screenshot 
+<img src="assets/myportfolio.png">
 
-<img src="myportfolio.png">
-
-# links
+# Github: 
 Here is my code via git hub: git@github.com:Lynchk07/KLweb.git
 
-HTTPS : https://github.com/Lynchk07/KLweb.git
+# Website: 
+
+ https://github.com/Lynchk07/KLweb.git
