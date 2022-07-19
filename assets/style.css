@@ -61,7 +61,20 @@
      background-size: cover;
      background-position: center;
  }
+
+ .content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+ }
  
+ .picture{
+    display:flex;
+    flex-wrap: wrap;
+
+ }
+
  div.gallery {
      margin: 5px ;
      border: 1px solid rgb(187, 190, 187);
@@ -88,7 +101,6 @@
  /*footer styling*/
  
      .footer{
-        clear:both;
          padding: 50px;
          text-align: center;
          font-weight: bold;
